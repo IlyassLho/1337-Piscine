@@ -1,0 +1,13 @@
+======================================print_odd.txt=========================================
+Assignment name  : print_odd
+Expected files   : print_odd.c
+Allowed functions: write
+--------------------------------------------------------------------------------
+create a program that only writes the character if the index its not multiple of 2.
+
+Example:
+
+./a.out "FOR 42" | cat -e
+O 4$
+
+==========================================================================================

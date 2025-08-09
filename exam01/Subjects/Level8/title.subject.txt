@@ -1,0 +1,22 @@
+Assignment name  : title
+Expected files   : title.c
+Allowed functions: write
+--------------------------------------------------------------------------------
+
+Write a program that takes one or more strings and, for each argument, puts 
+the first character of each word (if it's a letter) in uppercase followed by a \n.
+
+A word is a section of string delimited by spaces/tabs or the start/end of the
+string. If a word has a single letter, it must be capitalized.
+
+If there are no parameters, display \n.
+
+Examples:
+
+$> ./title | cat -e
+$
+$> ./rstr_capitalizer "no NO no no no!" | cat -e
+No NO No No No!$
+$> ./title pjldfjslogjlsj | cat -e
+$> Pjldfjslogjlsj
+==========================================================================================

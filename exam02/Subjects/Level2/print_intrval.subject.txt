@@ -1,0 +1,13 @@
+======================================ft_inc.txt=========================================
+Assignment name  : print_interval
+Expected files   : print_interval.c
+Allowed functions: write
+--------------------------------------------------------------------------------
+
+create a program that turns in an argument the character to '5' each time the index is a multiple of 3.
+
+And to '3' each time the index is a multiple of 5, and to '5' if its a multiple of both.
+
+If number of arguments not 1 write new line
+
+==========================================================================================

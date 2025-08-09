@@ -1,0 +1,8 @@
+Assignment name  : print_even
+Expected files   : print_even.c
+Allowed functions: write
+--------------------------------------------------------------------------------
+create a program that only writes the character if the index its on in is a multiple of 2.
+
+./a.out "FOR 42" | cat -e
+FR4$
