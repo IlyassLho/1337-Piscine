@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1abc9c&height=120&section=header&text=1337-PISCINE&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=<br>Unlock%20Potential,%20Code%20the%20Future%20Today&descAlignY=75&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1abc9c&height=120&section=header&text=1337-PISCINE&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=55"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/IlyassLho/1337-PISCINE?color=gray&label=last%20commit">
-  <img src="https://img.shields.io/badge/today-1abc9c">
   <img src="https://img.shields.io/badge/c-99.5%25-1abc9c">
   <img src="https://img.shields.io/badge/languages-2-1abc9c">
 </p>
